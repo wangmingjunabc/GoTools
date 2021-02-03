@@ -1,5 +1,5 @@
 /*
-RSA私匙和公匙的生成
+从文件中加载RSA密匙和公匙使用gob序列化
 */
 package main
 
